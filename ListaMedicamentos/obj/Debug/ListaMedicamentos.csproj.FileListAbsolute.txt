@@ -9,3 +9,14 @@ D:\UPN\CICLO 3\FUNDAMENTO DE PROGRAMACIÓN\T2\ListaMedicamentos\ListaMedicamento
 D:\UPN\CICLO 3\FUNDAMENTO DE PROGRAMACIÓN\T2\ListaMedicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.csproj.CoreCompileInputs.cache
 D:\UPN\CICLO 3\FUNDAMENTO DE PROGRAMACIÓN\T2\ListaMedicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.exe
 D:\UPN\CICLO 3\FUNDAMENTO DE PROGRAMACIÓN\T2\ListaMedicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.pdb
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\bin\Debug\ListaMedicamentos.exe.config
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\bin\Debug\ListaMedicamentos.exe
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\bin\Debug\ListaMedicamentos.pdb
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.csproj.AssemblyReference.cache
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.csproj.SuggestedBindingRedirects.cache
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.FrmDatos.resources
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.Properties.Resources.resources
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.csproj.GenerateResource.cache
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.csproj.CoreCompileInputs.cache
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.exe
+D:\UPN\MODELAMIENTO NSO\GitHubMedicamentos\Lista-de-Medicamentos\ListaMedicamentos\obj\Debug\ListaMedicamentos.pdb
