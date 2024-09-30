@@ -43,6 +43,7 @@
             this.lstMedicamentos = new System.Windows.Forms.ListBox();
             this.label5 = new System.Windows.Forms.Label();
             this.txtBuscarCodigo = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRegistrar
@@ -178,11 +179,22 @@
             this.txtBuscarCodigo.Size = new System.Drawing.Size(173, 20);
             this.txtBuscarCodigo.TabIndex = 15;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(538, 129);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(107, 33);
+            this.button1.TabIndex = 16;
+            this.button1.Text = "Se creo el boton";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // FrmDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(1053, 647);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.txtBuscarCodigo);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.lstMedicamentos);
@@ -198,6 +210,7 @@
             this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.btnRegistrar);
+            this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Name = "FrmDatos";
             this.Text = "Lista de medicamentos";
             this.ResumeLayout(false);
@@ -222,6 +235,7 @@
         private System.Windows.Forms.ListBox lstMedicamentos;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtBuscarCodigo;
+        private System.Windows.Forms.Button button1;
     }
 }
 
