@@ -213,6 +213,7 @@
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.Name = "FrmDatos";
             this.Text = "Lista de medicamentos";
+            this.Load += new System.EventHandler(this.FrmDatos_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

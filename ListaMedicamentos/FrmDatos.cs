@@ -15,6 +15,7 @@ namespace ListaMedicamentos
     {
         string Hola;
         //Hola esto es una prueba
+        //Esto es otra pueba XD
         List<Medicamento> medicamentos = new List<Medicamento>();
         public FrmDatos()
         {
@@ -89,6 +90,11 @@ namespace ListaMedicamentos
         {
             OrdenarMedicamentos();
         }
-        
+
+        private void FrmDatos_Load(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }
