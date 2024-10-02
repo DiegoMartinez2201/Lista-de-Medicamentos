@@ -13,7 +13,8 @@ namespace ListaMedicamentos
 {
     public partial class FrmDatos : Form
     {
-        string Hola;     
+        string Hola;
+        //Hola esto es una prueba
         List<Medicamento> medicamentos = new List<Medicamento>();
         public FrmDatos()
         {
